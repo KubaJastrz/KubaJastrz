@@ -7,7 +7,7 @@
 - React and Tailwind for creating UIs
 - Next.js, Remix and Astro as app frameworks
 - NestJS, Prisma and PostgreSQL for backend stuff
-- TypeScript, ESLint and Vitest for code quality
+- TypeScript, ESLint, Vitest and Playwright for code quality
 - Node and Bash scripts for automation
 
 🔭 I'm also passionate about Developer Experience and have my eyes at the web ecosystem at all times.
