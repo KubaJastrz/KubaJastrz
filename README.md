@@ -5,10 +5,11 @@
 🧰 My current toolset includes:
 
 - React and Tailwind for creating UIs
-- Next.js, Remix and Astro as app frameworks
-- NestJS, Prisma and PostgreSQL for backend stuff
+- Remix and Astro as app frameworks
+- NestJS, Drizzle and SQLite for backend stuff
 - TypeScript, ESLint, Vitest and Playwright for code quality
 - Node and Bash scripts for automation
+- Learning Rust on the side
 
 🔭 I'm also passionate about Developer Experience and have my eyes at the web ecosystem at all times.
 
