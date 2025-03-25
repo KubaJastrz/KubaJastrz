@@ -10,11 +10,12 @@ Contact: [LinkedIn], [Email]
 [LinkedIn]: https://www.linkedin.com/in/kuba-jastrz
 [Email]: mailto:jakub.jastrzebski@pm.me
 
-Interests:<br />
-💻 Web development<br />
-🛠️ Enjoyable tooling<br />
-🏛️ Ancient history<br />
-🍟 Deep-fried memes
+Interests:
+
+- 💻 Web development
+- 🛠️ Enjoyable tooling
+- 🏛️ Ancient history
+- 🍟 Deep-fried memes
 
 Recent OSS contributions:
 
